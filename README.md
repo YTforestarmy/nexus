@@ -1,6 +1,7 @@
 # Nexus Network CLI
 
 A high-performance command-line interface for contributing proofs to the Nexus network.
+
 Must Join [Telegram](https://t.me/forestarmy)
 <figure>
     <a href="https://beta.nexus.xyz/">
