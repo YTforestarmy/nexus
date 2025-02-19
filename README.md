@@ -1,7 +1,7 @@
 # Nexus Network CLI
 
 A high-performance command-line interface for contributing proofs to the Nexus network.
-
+Must Join [Telegram](https://t.me/forestarmy)
 <figure>
     <a href="https://beta.nexus.xyz/">
         <img src="assets/images/nexus-network-image.png" alt="Nexus Network visualization showing a distributed network of interconnected nodes with a 'Launch Network' button in the center">
